@@ -2,8 +2,14 @@ Script will parse a website and find the e-mail addresses using REGEX.
 Next release will follow a variable number of links on the website to aide in scanning and entire website rather than one page.
 
 Usage:
-Using python 2.7, execute emailScrape.py
+Using python 3.7, execute emailScrape.py
 Enter website to scrape
+a=input("emter your gmail ID")
+import from [gmail.com]
+   search=search(a)
+   pass
+open:
+ (gmail.com\unread)
 E-mails will output to screen
 
 TODO:
